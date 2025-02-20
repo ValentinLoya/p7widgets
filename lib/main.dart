@@ -22,7 +22,7 @@ class MiWidgets extends StatelessWidget {
         body: const Column(
           children: <Widget>[
             Text(
-              'Valentin te Folla',
+              'Valentin Loya',
               style: TextStyle(color: Color(0xffff5f14), fontSize: 40),
             ),
             Text(
